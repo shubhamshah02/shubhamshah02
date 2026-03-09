@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Shubham!
 🧩 I’m a problem solver at heart and I love building tools of value.<br/>
-🎓 Biomedical Sciences graduate from the **University of Waterloo**, Canada.<br/>
+🎓 Biomedical Sciences graduate from the University of Waterloo, Canada.<br/>
 📱 Passionate about crafting high-performance, native experiences for iOS, macOS, and beyond.<br/>
-🚀 Proud graduate of Paul Hudson’s **100 Days of SwiftUI**—a journey that solidified my foundation in Swift and high-quality app architecture.<br/>
+🚀 Learned Swift/SwiftUI from Paul Hudson’s [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui). <br/>
 🛠️ Currently deep-diving into **SwiftNIO**, **Network Extensions**, and **React Native**.<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=shubhamshah02&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
