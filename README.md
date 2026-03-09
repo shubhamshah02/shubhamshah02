@@ -4,9 +4,7 @@
 📱 Passionate about crafting high-performance, native experiences for iOS, macOS, and beyond.<br/>
 🚀 Proud graduate of Paul Hudson’s **100 Days of SwiftUI**—a journey that solidified my foundation in Swift and high-quality app architecture.<br/>
 🛠️ Currently deep-diving into **SwiftNIO**, **Network Extensions**, and **React Native**.<br/>
-
 ![](https://github-readme-stats.vercel.app/api?username=shubhamshah02&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
 # 💻 Tech Stack
 ### Languages & Core
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
