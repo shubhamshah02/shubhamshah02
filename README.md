@@ -35,8 +35,11 @@ A high-performance, unified client to watch Twitch and Kick streams with support
 ### [FuelUp — Gas Prices](https://apps.apple.com/us/app/fuelup-gas-prices/id6749216205)
 A streamlined utility for drivers across NA and EU to find the best fuel prices without the bloat. Engineered for the entire Apple ecosystem, including iPhone, Apple Watch, Vision Pro, and a full CarPlay integration.
 
-### [Quilt — Screenshot to PDF for Mac](https://quiltformac.com/)
-A macOS utility that automates the screenshotting process page by page into a document. Capture anything—from locked textbooks and books to HTML slides—and export them as searchable PDFs with on-device OCR.
+### [Quilt — Automated Screenshot to PDF for Mac](https://quiltformac.com/)
+A macOS utility that automates the screenshotting process page by page into a document. Capture anything—from locked textbooks and books to HTML slides and export them as searchable PDFs with on-device OCR and compression.
+
+### [WhatWord — Taboo Like Party Game](https://apps.apple.com/us/app/whatword-official-party-game/id6749552340))
+A party game for iOS that lets users AI generate decks or choose from a pre-made deck that contains themed rounds where the clue giver has to have their friends guess the main word, all without using the 5 off-limit words listed. WhatWord uses SharePlay to allow people to play over FaceTime or iMessage or in person as well.
 
 # 📬 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-s-800788176/)
