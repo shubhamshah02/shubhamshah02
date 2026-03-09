@@ -38,7 +38,7 @@ A streamlined utility for drivers across NA and EU to find the best fuel prices 
 ### [Quilt — Automated Screenshot to PDF for Mac](https://quiltformac.com/)
 A macOS utility that automates the screenshotting process page by page into a document. Capture anything—from locked textbooks and books to HTML slides and export them as searchable PDFs with on-device OCR and compression.
 
-### [WhatWord — Taboo Like Party Game](https://apps.apple.com/us/app/whatword-official-party-game/id6749552340))
+### [WhatWord — Taboo Like Party Game](https://apps.apple.com/us/app/whatword-official-party-game/id6749552340)
 A party game for iOS that lets users AI generate decks or choose from a pre-made deck that contains themed rounds where the clue giver has to have their friends guess the main word, all without using the 5 off-limit words listed. WhatWord uses SharePlay to allow people to play over FaceTime or iMessage or in person as well.
 
 # 📬 Connect with me
